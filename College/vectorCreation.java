@@ -1,6 +1,6 @@
 package College;
 
-import java.util.Vector;
+import java.util.*;
 
 public class vectorCreation {
     public static void main(String[] args) {
